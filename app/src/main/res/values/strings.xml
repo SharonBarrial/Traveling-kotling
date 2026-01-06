@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppTurismo</string>
+    <string name="find_packages">Find packages</string>
+    <string name="favorite_packages">Favorite packages</string>
+    <string name="search">Search</string>
+    <string name="enter_the_type_id">Enter the type id</string>
+    <string name="enter_the_site_id">Enter the site id</string>
+    <string name="product_id">Product id</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="publication">Publication</string>
+</resources>
